@@ -1,4 +1,4 @@
-/*Write a Java program that tests all important methods (two variants of add
+/*(1)Write a Java program that tests all important methods (two variants of add
 and remove methods, set, get, indexOf, contains methods) of ArrayList class.
 Test your program with user input and strings.*/
 import java.util.ArrayList;
