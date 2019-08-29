@@ -1,4 +1,4 @@
-/*Write a Java program that tests all important methods (addFirst, addLast, getFirst, getLast, lastIndexOf, pollFirst,
+/*(2)Write a Java program that tests all important methods (addFirst, addLast, getFirst, getLast, lastIndexOf, pollFirst,
 pollLast, removeFirst, removeLast, removeFirstOccurrence, removeLastOccurrence, and set methods) of LinkedList class. 
 Test your Program with user input and strings.*/
 
