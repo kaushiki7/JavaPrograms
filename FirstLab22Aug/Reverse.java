@@ -1,3 +1,4 @@
+/*(2). Write a Java program to reverse an array of integers.*/
 package firstLab;
 
 import java.util.Scanner;
